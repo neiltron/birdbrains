@@ -1,0 +1,4 @@
+export DBNAME=your-db-name
+export AWS_ACCESS_KEY=your-s3-access-key
+export AWS_SECRET_KEY=your-s3-secret
+export AWS_BUCKET=your-s3-bucket-name
